@@ -1,0 +1,2 @@
+rsync -avz -e ssh adminvs@192.168.0.23:/var/www/laravel/sitebuilder/ /home/fex1300/Documenti/projects/sitebuilder.marsupiogroup.it
+rsync -avz -e ssh /home/fex1300/Documenti/projects/sitebuilder.marsupiogroup.it/ adminvs@192.168.0.23:/var/www/laravel/sitebuilder
